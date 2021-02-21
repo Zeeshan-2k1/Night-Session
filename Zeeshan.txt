@@ -1,4 +1,8 @@
 This is my first git project.
 Zeeshan Ashraf
+<<<<<<< HEAD
+=======
 divyansh
 ee
+>>>>>>> e538deb60fcede2053206f4328de56e30eb17f0d
+Kunal Mahatha
